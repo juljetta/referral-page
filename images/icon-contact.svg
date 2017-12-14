@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="43px" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-contact</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-1280x900-(2)" transform="translate(-199.000000, -683.000000)">
+            <g id="Group-3" transform="translate(199.000000, 683.000000)">
+                <g id="icon-contact">
+                    <g id="Group">
+                        <polygon id="Shape-14" fill="#231F20" points="34.8214286 18.9181338 34.8214286 26.9991197 42.8571429 18.9181338"></polygon>
+                        <polygon id="Shape-13" fill="#231F20" points="8.03571429 18.9181338 -4.63629135e-13 18.9181338 8.03571429 25.6522887"></polygon>
+                        <g id="Shape-12-+-Shape-2" transform="translate(2.678571, 0.000000)" fill="#FFFFFF">
+                            <path d="M0,11.5008803 L0,36.2374729 C0,39.5283722 3,42.1610915 6.21428571,42.1610915 L31.9285714,42.1610915 C35.1428571,42.1610915 37.5,39.5283722 37.5,36.2374729 L37.5,11.0072454 L0,11.5008803 Z" id="Shape-12"></path>
+                            <path d="M0.133928571,0.70655302 L0.133928571,25.2713638 C0.133928571,28.5394095 3.13392857,31.1538462 6.34821429,31.1538462 L32.0625,31.1538462 C35.2767857,31.1538462 37.6339286,28.5394095 37.6339286,25.2713638 L37.6339286,0.216346154 L0.133928571,0.70655302 Z" id="Shape-15" transform="translate(18.883929, 15.685096) rotate(-180.000000) translate(-18.883929, -15.685096) "></path>
+                            <path d="M0.133928571,0.70655302 L0.133928571,25.2713638 C0.133928571,28.5394095 3.13392857,31.1538462 6.34821429,31.1538462 L32.0625,31.1538462 C35.2767857,31.1538462 37.6339286,28.5394095 37.6339286,25.2713638 L37.6339286,0.216346154 L0.133928571,0.70655302 Z" id="Shape-15-Copy" transform="translate(18.883929, 15.685096) rotate(-180.000000) translate(-18.883929, -15.685096) "></path>
+                        </g>
+                        <rect id="Rectangle-210" fill="#40A2AC" x="9.875" y="8.14583333" width="6" height="2"></rect>
+                        <rect id="Rectangle-212" fill="#40A2AC" x="9.875" y="18.1458333" width="25" height="2"></rect>
+                        <rect id="Rectangle-213" fill="#40A2AC" x="9.875" y="13.1458333" width="25" height="2"></rect>
+                        <g id="noun_1605" transform="translate(0.000000, 18.508803)" fill="#40A2AC">
+                            <g id="Group">
+                                <g id="Shape">
+                                    <polygon points="28.587 11.6757894 42.8571429 0.10260109 42.8571429 23.2489777"></polygon>
+                                    <polygon points="14.2705714 11.6757894 0 0.10260109 0 23.2489777"></polygon>
+                                    <polygon points="1.69071429 23.5853816 21.3407143 7.64932985 40.9902857 23.5853816"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
